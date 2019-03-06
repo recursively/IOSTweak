@@ -1,0 +1,11 @@
+Package: apple
+Name: commonproject
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: z
+Author: z
+Section: Tweaks
+Homepage: http://recursively.review
+Version: 0.0.1-1+debug
+Installed-Size: 136
